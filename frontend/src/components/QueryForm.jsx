@@ -291,5 +291,4 @@ const QueryForm = () => {
     </div>
   );
 };
-
 export default QueryForm;
