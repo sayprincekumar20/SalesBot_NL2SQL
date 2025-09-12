@@ -54,68 +54,6 @@ def _detect_time_and_value_columns(rows: List[Dict[str, Any]]) -> tuple[Optional
     return time_col, value_col
 
 
-# def forecast_arima(rows: List[Dict[str, Any]], horizon: int = 3) -> Optional[Dict[str, Any]]:
-#     """
-#     Fit simple ARIMA(1,1,1) and forecast `horizon` future points.
-#     Expects rows sorted ascending by time.
-#     """
-#     if ARIMA is None:
-#         return {"note": "statsmodels not installed; cannot run ARIMA."}
-
-#     if not rows:
-#         return {"note": "No data to forecast."}
-
-#     tcol, vcol = _detect_time_and_value_columns(rows)
-#     if not tcol or not vcol:
-#         return {"note": f"Unable to detect time/value columns. Found time={tcol}, value={vcol}."}
-
-#     try:
-#         df = pd.DataFrame(rows)
-#         # try to parse time column
-#         try:
-#             df[tcol] = pd.to_datetime(df[tcol])
-#             df = df.sort_values(tcol)
-#             idx = df[tcol]
-#         except Exception:
-#             # leave as is, but sort anyway
-#             df = df.sort_values(tcol)
-#             idx = df[tcol]
-
-#         series = pd.to_numeric(df[vcol], errors="coerce").fillna(0.0)
-#         if len(series) < 6:
-#             return {"note": "Not enough history for ARIMA (need ~6+ points)."}
-
-#         model = ARIMA(series, order=(1, 1, 1))
-#         fitted = model.fit()
-#         fc = fitted.forecast(steps=horizon)
-
-#         # build periods by extending last known period
-#         last_period = list(idx)[-1]
-#         if hasattr(last_period, "to_period"):
-#             base = pd.Period(last_period, freq='M') if hasattr(last_period, "freqstr") else None
-#         else:
-#             base = None
-
-#         forecast_points = []
-#         for i, val in enumerate(fc, start=1):
-#             label = None
-#             if isinstance(last_period, pd.Timestamp):
-#                 label = (last_period + pd.DateOffset(months=i)).strftime("%Y-%m")
-#             else:
-#                 label = f"T+{i}"
-#             forecast_points.append({"period": label, "value": float(val)})
-
-#         return {
-#             "horizon": horizon,
-#             "time_col": tcol,
-#             "value_col": vcol,
-#             "points": forecast_points
-#         }
-#     except Exception as e:
-#         logging.error(f"[ARIMA ERROR] {e}")
-#         return {"note": f"ARIMA failed: {e}"}
-
-
 import re
 
 def extract_horizon_from_prompt(prompt: str, default: int = 3) -> int:
