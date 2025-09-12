@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlite-bro
+sqlparse
+python-dotenv
+groq
+numpy
+sentence-transformers
+pandas
