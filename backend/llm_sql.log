@@ -2072,3 +2072,21 @@ LIMIT 10; | Error: near "od": syntax error
 2025-09-12 16:55:29,965 - WARNING - Skipping binary column: Photo
 2025-09-12 16:55:29,965 - WARNING - Skipping binary column: Photo
 2025-09-12 16:55:30,666 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:04:20,074 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 12:08:11,882 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:08:11,883 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:10:04,825 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:10:04,826 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:10:18,473 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:10:18,474 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:14:18,636 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:14:18,638 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:14:37,809 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:14:37,810 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:15:24,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:15:24,314 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:15:45,114 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:15:45,116 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:18:23,726 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-23 12:18:23,728 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-09-23 12:19:20,939 - WARNING - statsmodels not available; forecasting will be skipped.

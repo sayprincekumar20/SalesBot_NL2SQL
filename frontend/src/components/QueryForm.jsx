@@ -277,7 +277,7 @@ const QueryForm = () => {
           type="text"
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)}
-          placeholder="Type your query..."
+          placeholder="Ask something like 'Sales by ShipRegion' – view results in different chart types!"
           className="flex-1 border rounded-lg px-4 py-3 text-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
         <button
