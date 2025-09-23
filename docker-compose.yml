@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data  # Mount data directory
+    env_file:
+      - .env
+    environment:
+      - PYTHONPATH=/app
+      - DB_PATH=/app/data/northwind.db  # Correct path inside container
+    restart: unless-stopped
+    command: >
+      sh -c "
+        echo '=== Starting Backend Service ===' &&
+        echo 'Current directory: ' && pwd &&
+        echo 'Listing files: ' && ls -la &&
+        echo 'Checking app directory: ' && ls -la /app/app/ &&
+        echo 'Checking data directory: ' && ls -la /app/data/ &&
+        echo 'Testing database connection...' &&
+        python -c 'from app.db import init_database; init_database()' &&
+        echo 'Starting main application...' &&
+        python -m app.main
+      "
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    environment:
+      - VITE_API_URL=http://localhost:8000

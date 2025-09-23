@@ -2090,3 +2090,113 @@ LIMIT 10; | Error: near "od": syntax error
 2025-09-23 12:18:23,726 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
 2025-09-23 12:18:23,728 - ERROR - [LLM PLAN ERROR] Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
 2025-09-23 12:19:20,939 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 12:22:01,339 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 12:22:16,376 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:22:16,411 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,412 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,412 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,412 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,412 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,412 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,413 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,413 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:16,413 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:17,127 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:22:46,661 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:22:46,906 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,906 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,906 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,906 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,906 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,907 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,907 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,907 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:46,907 - WARNING - Skipping binary column: Photo
+2025-09-23 12:22:47,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:23:26,274 - INFO - Retrying request to /openai/v1/chat/completions in 0.450435 seconds
+2025-09-23 12:23:27,250 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:23:28,031 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:25:22,123 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:25:24,155 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:34:17,743 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:34:19,473 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:42:09,893 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:42:10,685 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:43:46,573 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:43:47,528 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:51:48,805 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 12:51:49,768 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:20:23,303 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 13:20:59,885 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:20:59,924 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,924 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:20:59,925 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:00,670 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:21:13,574 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:21:13,804 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,804 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,805 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:13,806 - WARNING - Skipping binary column: Photo
+2025-09-23 13:21:14,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:21:35,665 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 13:21:37,299 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 14:45:11,742 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 14:45:41,508 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 14:45:41,530 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,530 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:41,531 - WARNING - Skipping binary column: Photo
+2025-09-23 14:45:42,185 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 09:50:02,562 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 09:57:09,272 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 09:57:33,435 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 09:58:17,785 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 09:58:28,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 09:58:37,062 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 10:04:31,338 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 10:04:42,496 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 15:36:55,005 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 15:37:18,854 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 15:37:18,899 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,899 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,899 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,899 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,900 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,900 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,900 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,900 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:18,900 - WARNING - Skipping binary column: Photo
+2025-09-23 15:37:19,560 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 10:10:07,718 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 10:10:27,500 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 10:17:35,879 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 10:21:13,595 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 10:21:32,489 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:18:24,667 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 18:18:43,857 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 18:18:43,904 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,904 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,904 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,905 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,905 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,905 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,905 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,906 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:43,906 - WARNING - Skipping binary column: Photo
+2025-09-23 18:18:44,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

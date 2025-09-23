@@ -7,3 +7,4 @@ groq
 numpy
 sentence-transformers
 pandas
+torch
