@@ -1,22 +1,31 @@
-FROM python:3.9
+# Use Python 3.11 slim image (smaller and supports modern typing)
+FROM python:3.11-slim
 
+# Set working directory
 WORKDIR /app
 
 # Install sqlite3 and other system dependencies
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y --no-install-recommends \
     sqlite3 \
     curl \
-    && rm -rf /var/lib/apt/lists/*
+    build-essential \
+ && rm -rf /var/lib/apt/lists/*
 
+# Copy requirements first (caching advantage)
 COPY requirements.txt .
-RUN pip install -r requirements.txt
 
+# Upgrade pip and install dependencies
+RUN pip install --no-cache-dir --upgrade pip \
+ && pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the app
 COPY . .
 
-# Create data directory and set proper permissions
+# Ensure data directory exists with proper permissions
 RUN mkdir -p /app/data && chmod 755 /app/data
 
+# Expose FastAPI port
 EXPOSE 8000
 
-# Use module syntax to run the application
-CMD ["python", "-m", "app.main"]
+# Run FastAPI with uvicorn (production style)
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

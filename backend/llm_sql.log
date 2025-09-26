@@ -2200,3 +2200,431 @@ LIMIT 10; | Error: near "od": syntax error
 2025-09-23 18:18:43,906 - WARNING - Skipping binary column: Photo
 2025-09-23 18:18:43,906 - WARNING - Skipping binary column: Photo
 2025-09-23 18:18:44,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:12:49,601 - INFO - Database module imported
+2025-09-23 19:12:51,016 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:19:38,956 - INFO - Database module imported
+2025-09-23 19:19:40,052 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:28:08,781 - INFO - Database module imported
+2025-09-23 19:28:18,353 - INFO - Database module imported
+2025-09-23 19:28:19,813 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:34:40,892 - INFO - Database module imported
+2025-09-23 19:34:41,756 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:35:19,583 - INFO - Database module imported
+2025-09-23 19:35:20,632 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:37:25,223 - INFO - Database module imported
+2025-09-23 19:37:26,202 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:37:26,202 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:37:26,202 - INFO - Database file exists: False
+2025-09-23 19:37:26,203 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:37:45,629 - INFO - Database path: data/northwind.db
+2025-09-23 19:37:45,629 - INFO - Database file exists: False
+2025-09-23 19:37:45,630 - INFO - Database module imported
+2025-09-23 19:37:45,630 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:37:45,630 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:37:45,630 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:37:45,630 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:37:45,630 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:37:45,630 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:37:45,630 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:37:45,630 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:37:45,630 - ERROR - Failed to initialize database connection
+2025-09-23 19:37:46,850 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:37:46,850 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:37:46,850 - INFO - Database file exists: False
+2025-09-23 19:37:46,850 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:38:13,409 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:38:13,409 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:13,409 - INFO - Database file exists: False
+2025-09-23 19:38:13,410 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:38:25,618 - INFO - Database path: data/northwind.db
+2025-09-23 19:38:25,618 - INFO - Database file exists: False
+2025-09-23 19:38:25,618 - INFO - Database module imported
+2025-09-23 19:38:25,619 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:25,619 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:38:25,619 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:25,619 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:38:25,619 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:25,619 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:25,619 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:38:25,619 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:25,619 - ERROR - Failed to initialize database connection
+2025-09-23 19:38:26,379 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:38:26,379 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:26,379 - INFO - Database file exists: False
+2025-09-23 19:38:26,379 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:38:37,303 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:38:37,304 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:37,304 - INFO - Database file exists: False
+2025-09-23 19:38:37,304 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:38:47,623 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:38:47,623 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:47,623 - INFO - Database file exists: False
+2025-09-23 19:38:47,624 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:38:54,377 - INFO - Database path: data/northwind.db
+2025-09-23 19:38:54,377 - INFO - Database file exists: False
+2025-09-23 19:38:54,377 - INFO - Database module imported
+2025-09-23 19:38:54,377 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:54,377 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:38:54,377 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:54,377 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:38:54,377 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:54,377 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:54,378 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:38:54,378 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:38:54,378 - ERROR - Failed to initialize database connection
+2025-09-23 19:38:55,118 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:38:55,118 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:38:55,118 - INFO - Database file exists: False
+2025-09-23 19:38:55,118 - ERROR - Error extracting schema: unable to open database file
+2025-09-23 19:40:06,543 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:06,544 - INFO - Database file exists: False
+2025-09-23 19:40:06,544 - INFO - Database module imported
+2025-09-23 19:40:06,544 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:06,544 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:06,544 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:06,544 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:40:06,544 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:06,545 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:06,545 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:40:06,545 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:06,545 - ERROR - Failed to initialize database connection
+2025-09-23 19:40:07,484 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:40:21,094 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:21,094 - INFO - Database file exists: False
+2025-09-23 19:40:21,095 - INFO - Database module imported
+2025-09-23 19:40:21,095 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:21,095 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:21,095 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:21,095 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:40:21,095 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:21,095 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:21,096 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:40:21,096 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:21,096 - ERROR - Failed to initialize database connection
+2025-09-23 19:40:26,867 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:26,867 - INFO - Database file exists: False
+2025-09-23 19:40:26,867 - INFO - Database module imported
+2025-09-23 19:40:26,868 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:26,868 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:26,868 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:26,868 - ERROR - Data directory does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data
+2025-09-23 19:40:26,868 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:26,868 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:26,868 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db - exists: True
+2025-09-23 19:40:26,868 - INFO - Checking potential path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db - exists: False
+2025-09-23 19:40:26,869 - ERROR - Failed to initialize database connection
+2025-09-23 19:40:26,875 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:26,875 - INFO - Database file exists: False
+2025-09-23 19:40:26,876 - INFO - Database module imported
+2025-09-23 19:40:26,876 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:26,876 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:26,876 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:57,208 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:57,208 - INFO - Database file exists: False
+2025-09-23 19:40:57,208 - INFO - Database module imported
+2025-09-23 19:40:57,208 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:57,209 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:57,209 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:57,210 - INFO - Database path: data/northwind.db
+2025-09-23 19:40:57,211 - INFO - Database file exists: False
+2025-09-23 19:40:57,211 - INFO - Database module imported
+2025-09-23 19:40:57,211 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:40:57,211 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:40:57,211 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:13,923 - INFO - Database path: data/northwind.db
+2025-09-23 19:41:13,923 - INFO - Database file exists: False
+2025-09-23 19:41:13,924 - INFO - Database module imported
+2025-09-23 19:41:13,924 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:13,924 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:41:13,924 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:19,463 - INFO - Database path: data/northwind.db
+2025-09-23 19:41:19,463 - INFO - Database file exists: False
+2025-09-23 19:41:19,463 - INFO - Database module imported
+2025-09-23 19:41:19,463 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:19,463 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:41:19,463 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:20,705 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:41:20,705 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:20,705 - ERROR - Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:20,705 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:56,493 - INFO - Database path: data/northwind.db
+2025-09-23 19:41:56,494 - INFO - Database file exists: False
+2025-09-23 19:41:56,494 - INFO - Database module imported
+2025-09-23 19:41:56,494 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:56,494 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:41:56,494 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:57,165 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:41:57,166 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:57,166 - ERROR - Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:41:57,166 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:50:35,745 - INFO - Database path: data/northwind.db
+2025-09-23 19:50:35,746 - INFO - Database file exists: False
+2025-09-23 19:50:35,746 - INFO - Database module imported
+2025-09-23 19:50:35,746 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:50:35,746 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:50:35,746 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:50:36,631 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:50:36,631 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:50:36,631 - ERROR - Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:50:36,631 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:51:57,401 - INFO - Database path: data\northwind.db
+2025-09-23 19:51:57,401 - INFO - Database file exists: False
+2025-09-23 19:51:57,402 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:51:57,402 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:51:57,402 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:51:58,334 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:51:58,334 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:51:58,334 - ERROR - Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:51:58,335 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:06,445 - INFO - Database path: data\northwind.db
+2025-09-23 19:52:06,445 - INFO - Database file exists: False
+2025-09-23 19:52:06,446 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:06,446 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:52:06,446 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:07,512 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:52:07,513 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:07,513 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:39,432 - INFO - Database path: data\northwind.db
+2025-09-23 19:52:39,432 - INFO - Database file exists: False
+2025-09-23 19:52:39,432 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:39,432 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:52:39,432 - ERROR - Database file does not exist: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:40,093 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:52:40,094 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:52:40,094 - ERROR - Error extracting schema: Database file not found: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend\data\northwind.db
+2025-09-23 19:55:32,225 - INFO - DB_PATH from env: data/northwind.db
+2025-09-23 19:55:32,225 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 19:55:32,226 - INFO - Database file exists: True
+2025-09-23 19:55:32,226 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 19:55:32,226 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:55:32,234 - INFO - Found 14 tables in database
+2025-09-23 19:55:32,234 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 19:55:33,247 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 19:55:33,248 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 19:55:33,251 - INFO - Successfully extracted schema for 14 tables
+2025-09-23 19:55:33,306 - INFO - Application starting up...
+2025-09-23 19:55:33,306 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 19:55:33,306 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 19:55:33,307 - INFO - Found 14 tables in database
+2025-09-23 19:55:33,308 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 19:55:33,308 - INFO - Database connection successful
+2025-09-23 19:56:09,102 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:56:09,771 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 20:32:46,333 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 20:32:46,351 - ERROR - [SUMMARY ERROR] Object of type bytes is not JSON serializable
+2025-09-23 21:02:40,505 - INFO - DB_PATH from env: data/northwind.db
+2025-09-23 21:02:40,506 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:02:40,507 - INFO - Database file exists: True
+2025-09-23 21:02:40,508 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:02:40,508 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 21:02:40,519 - INFO - Found 14 tables in database
+2025-09-23 21:02:40,519 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 21:02:41,919 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 21:02:41,919 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:02:41,921 - INFO - Successfully extracted schema for 14 tables
+2025-09-23 21:02:41,966 - INFO - Application starting up...
+2025-09-23 21:02:41,966 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:02:41,966 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 21:02:41,968 - INFO - Found 14 tables in database
+2025-09-23 21:02:41,968 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 21:02:41,968 - INFO - Database connection successful
+2025-09-23 21:02:46,427 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:02:46,444 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-23 21:02:47,347 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:02:48,078 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:07:13,935 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:07:14,579 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:07:29,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:07:29,611 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-23 21:07:40,747 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:07:40,753 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-23 21:08:04,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:08:05,363 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:08:35,891 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:08:35,899 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-23 21:12:05,621 - INFO - DB_PATH from env: data/northwind.db
+2025-09-23 21:12:05,622 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:12:05,622 - INFO - Database file exists: True
+2025-09-23 21:12:05,622 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:12:05,622 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 21:12:05,623 - INFO - Found 14 tables in database
+2025-09-23 21:12:05,624 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 21:12:06,740 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-23 21:12:06,741 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:12:06,745 - INFO - Successfully extracted schema for 14 tables
+2025-09-23 21:12:06,778 - INFO - Application starting up...
+2025-09-23 21:12:06,779 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-23 21:12:06,779 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-23 21:12:06,783 - INFO - Found 14 tables in database
+2025-09-23 21:12:06,783 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-23 21:12:06,783 - INFO - Database connection successful
+2025-09-23 21:21:15,040 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:21:15,099 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-23 21:22:16,911 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:22:17,717 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:22:32,572 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:22:34,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:23:40,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:23:43,869 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:24:13,665 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 21:24:16,217 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 09:53:48,671 - INFO - Retrying request to /openai/v1/chat/completions in 0.473065 seconds
+2025-09-24 09:53:50,753 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 09:53:52,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:39:05,678 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:39:05,679 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:39:05,679 - INFO - Database file exists: True
+2025-09-24 10:39:05,679 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:39:05,679 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:39:05,680 - INFO - Found 14 tables in database
+2025-09-24 10:39:05,681 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:39:06,889 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:39:06,890 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:39:06,895 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:39:06,921 - INFO - Application starting up...
+2025-09-24 10:39:06,922 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:39:06,922 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:39:06,923 - INFO - Found 14 tables in database
+2025-09-24 10:39:06,923 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:39:06,923 - INFO - Database connection successful
+2025-09-24 10:39:32,679 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:39:32,713 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-09-24 10:41:11,845 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:41:13,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:43:18,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:43:19,925 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:43:49,088 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:43:50,859 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:44:57,864 - INFO - Retrying request to /openai/v1/chat/completions in 0.400450 seconds
+2025-09-24 10:44:58,802 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:44:59,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:45:49,055 - INFO - Retrying request to /openai/v1/chat/completions in 0.425404 seconds
+2025-09-24 10:45:54,494 - INFO - Retrying request to /openai/v1/chat/completions in 0.777307 seconds
+2025-09-24 10:45:55,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:45:56,881 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:46:32,767 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:46:33,281 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:46:49,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:46:50,852 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:47:13,543 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:47:14,109 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:48:05,001 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:48:05,578 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:48:15,847 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:48:47,090 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:48:47,093 - ERROR - Error executing SQL query: no such column: o.OrderDate
+2025-09-24 10:49:13,973 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:49:13,976 - ERROR - Error executing SQL query: no such column: o.Quantity
+2025-09-24 10:49:29,342 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:49:30,396 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:49:49,907 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:49:50,697 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:50:54,967 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:50:55,624 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:04,580 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:06,841 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:27,463 - INFO - Retrying request to /openai/v1/chat/completions in 0.398436 seconds
+2025-09-24 10:51:28,436 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:28,965 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:42,161 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:43,847 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:51:58,051 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:52:20,367 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:52:38,285 - INFO - Retrying request to /openai/v1/chat/completions in 0.418767 seconds
+2025-09-24 10:52:39,393 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:52:45,454 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:52:56,759 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:53:35,698 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:53:42,434 - INFO - Retrying request to /openai/v1/chat/completions in 0.395488 seconds
+2025-09-24 10:53:43,567 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:53:59,586 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:01,047 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:15,251 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:16,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:27,290 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:33,353 - INFO - Retrying request to /openai/v1/chat/completions in 0.443017 seconds
+2025-09-24 10:54:34,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:45,789 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:54:46,384 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:55:14,834 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:55:14,834 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:14,834 - INFO - Database file exists: True
+2025-09-24 10:55:14,834 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:14,834 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:55:14,836 - INFO - Found 14 tables in database
+2025-09-24 10:55:14,836 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:55:15,793 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:55:15,793 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:15,798 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:55:15,833 - INFO - Application starting up...
+2025-09-24 10:55:15,833 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:15,833 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:55:15,834 - INFO - Found 14 tables in database
+2025-09-24 10:55:15,835 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:55:15,835 - INFO - Database connection successful
+2025-09-24 10:55:51,582 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:55:51,582 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:51,582 - INFO - Database file exists: True
+2025-09-24 10:55:51,583 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:51,583 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:55:51,585 - INFO - Found 14 tables in database
+2025-09-24 10:55:51,585 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:55:52,808 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:55:52,808 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:52,814 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:55:52,862 - INFO - Application starting up...
+2025-09-24 10:55:52,863 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:55:52,863 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:55:52,865 - INFO - Found 14 tables in database
+2025-09-24 10:55:52,866 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:55:52,866 - INFO - Database connection successful
+2025-09-24 10:56:10,905 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:56:10,905 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:10,906 - INFO - Database file exists: True
+2025-09-24 10:56:10,906 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:10,906 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:10,909 - INFO - Found 14 tables in database
+2025-09-24 10:56:10,910 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:12,304 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:56:12,305 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:12,311 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:56:12,344 - INFO - Application starting up...
+2025-09-24 10:56:12,344 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:12,344 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:12,345 - INFO - Found 14 tables in database
+2025-09-24 10:56:12,345 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:12,346 - INFO - Database connection successful
+2025-09-24 10:56:34,478 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:56:34,478 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:34,479 - INFO - Database file exists: True
+2025-09-24 10:56:34,479 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:34,479 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:34,483 - INFO - Found 14 tables in database
+2025-09-24 10:56:34,483 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:36,137 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:56:36,138 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:36,140 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:56:36,182 - INFO - Application starting up...
+2025-09-24 10:56:36,182 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:36,182 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:36,183 - INFO - Found 14 tables in database
+2025-09-24 10:56:36,183 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:36,184 - INFO - Database connection successful
+2025-09-24 10:56:48,371 - INFO - DB_PATH from env: data/northwind.db
+2025-09-24 10:56:48,371 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:48,371 - INFO - Database file exists: True
+2025-09-24 10:56:48,372 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:48,372 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:48,374 - INFO - Found 14 tables in database
+2025-09-24 10:56:48,374 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:49,451 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-24 10:56:49,452 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:49,456 - INFO - Successfully extracted schema for 14 tables
+2025-09-24 10:56:49,488 - INFO - Application starting up...
+2025-09-24 10:56:49,488 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-24 10:56:49,488 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-24 10:56:49,490 - INFO - Found 14 tables in database
+2025-09-24 10:56:49,490 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-24 10:56:49,490 - INFO - Database connection successful
+2025-09-24 10:57:07,081 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-24 10:57:07,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

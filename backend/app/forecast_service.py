@@ -17,8 +17,6 @@ except Exception as e:
 
 
 
-
-
 def _detect_time_and_value_columns(rows: List[Dict[str, Any]]) -> tuple[Optional[str], Optional[str]]:
     """
     Heuristic: pick the first column that looks like a period/date as time,
