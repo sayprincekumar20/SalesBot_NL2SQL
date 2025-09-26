@@ -1,0 +1,51 @@
+Products & Categories
+
+What are the top  most expensive products?
+
+Which products are currently out of stock?
+
+Show me the average price of products in each category.
+
+Which category has the most products?
+
+🧑 Customers
+
+List the top 10 customers by total order value.
+
+Which customers are from Germany?
+
+How many customers are there in each country?
+
+Who are the customers that haven’t placed any orders?
+
+📑 Orders
+
+Which order had the highest total value?
+
+Find the average order value per customer.
+
+🚚 Suppliers & Shippers
+
+Which suppliers provide the most products?
+
+List all suppliers based in the USA.
+
+Which shipper handled the most orders?
+
+👩‍💼 Employees
+
+Who are the top 5 employees by sales revenue?
+
+Which employees report to Andrew Fuller?
+
+How many orders did each employee handle in 2022?
+
+🔗 Joins & Business Insights
+
+Which customer ordered the most different products?
+
+What’s the total revenue by category in 2022?
+
+Show me the top 3 countries by total sales.
+
+Which employee served the most customers?

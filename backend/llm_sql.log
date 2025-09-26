@@ -2628,3 +2628,21 @@ LIMIT 10; | Error: near "od": syntax error
 2025-09-24 10:56:49,490 - INFO - Database connection successful
 2025-09-24 10:57:07,081 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-09-24 10:57:07,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-26 11:05:45,363 - INFO - DB_PATH from env: data/northwind.db
+2025-09-26 11:05:45,364 - INFO - Resolved database path: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-26 11:05:45,364 - INFO - Database file exists: True
+2025-09-26 11:05:45,365 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-26 11:05:45,365 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-26 11:05:45,373 - INFO - Found 14 tables in database
+2025-09-26 11:05:45,373 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-26 11:05:46,803 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-09-26 11:05:46,803 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-26 11:05:46,807 - INFO - Successfully extracted schema for 14 tables
+2025-09-26 11:05:46,850 - INFO - Application starting up...
+2025-09-26 11:05:46,850 - INFO - Looking for database at: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\data\northwind.db
+2025-09-26 11:05:46,850 - INFO - Current working directory: C:\Users\prince.kumar\OneDrive - Aionos\Desktop\All_Projects\SalesBot_NL2SQL\backend
+2025-09-26 11:05:46,852 - INFO - Found 14 tables in database
+2025-09-26 11:05:46,852 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-09-26 11:05:46,853 - INFO - Database connection successful
+2025-09-26 11:06:12,801 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-26 11:06:14,620 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
