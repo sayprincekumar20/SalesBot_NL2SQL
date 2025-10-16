@@ -21,7 +21,7 @@ def summarize_data(user_query: str, rows: list[dict]) -> str | None:
             {"role": "user", "content": f"User question: {user_query}\n\nData (JSON rows, truncated):\n{json.dumps(sample)[:6000]}\n\nWrite 3-5 concise bullet points highlighting the key insights. Avoid restating raw rows; compute relevant totals or top items if obvious."}
         ]
         chat = client.chat.completions.create(
-            model="gemma2-9b-it",
+            model="llama-3.1-8b-instant",
             messages=messages,
             temperature=0.2
         )

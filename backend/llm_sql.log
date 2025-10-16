@@ -2646,3 +2646,573 @@ LIMIT 10; | Error: near "od": syntax error
 2025-09-26 11:05:46,853 - INFO - Database connection successful
 2025-09-26 11:06:12,801 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-09-26 11:06:14,620 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 22:46:39,940 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 22:46:39,941 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 22:46:39,942 - INFO - Database file exists: False
+2025-10-16 22:46:39,942 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 22:46:39,942 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 22:46:39,942 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 22:47:05,243 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 22:47:05,244 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 22:47:05,244 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 22:47:27,414 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 22:47:27,414 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 22:47:27,414 - INFO - Database file exists: False
+2025-10-16 22:47:27,414 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 22:47:27,414 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 22:47:27,415 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 22:47:28,414 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 22:47:28,415 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 22:47:28,415 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 22:54:33,349 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 22:54:33,350 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 22:54:33,351 - INFO - Database file exists: False
+2025-10-16 22:54:33,351 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 22:54:33,351 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 22:54:33,351 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 22:54:35,239 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 22:54:35,241 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 22:54:35,241 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 22:54:48,820 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 22:54:48,820 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 22:54:48,821 - INFO - Database file exists: False
+2025-10-16 22:54:48,821 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 22:54:48,821 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 22:54:48,821 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 22:54:49,855 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 22:54:49,855 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 22:54:49,855 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 22:55:16,445 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 22:55:16,445 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 22:55:16,445 - INFO - Database file exists: False
+2025-10-16 22:55:16,445 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 22:55:16,445 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 22:55:16,446 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 22:55:17,670 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 22:55:17,670 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 22:55:17,671 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 23:01:12,871 - INFO - DB_PATH from env: /app/data/northwind.db
+2025-10-16 23:01:12,872 - INFO - Resolved database path: C:\app\data\northwind.db
+2025-10-16 23:01:12,872 - INFO - Database file exists: False
+2025-10-16 23:01:12,873 - INFO - Looking for database at: C:\app\data\northwind.db
+2025-10-16 23:01:12,873 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:01:12,873 - ERROR - Database file does not exist: C:\app\data\northwind.db
+2025-10-16 23:01:15,787 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 23:01:15,790 - INFO - Attempting to connect to database at: C:\app\data\northwind.db
+2025-10-16 23:01:15,790 - ERROR - Error extracting schema: Database file not found: C:\app\data\northwind.db
+2025-10-16 23:07:34,081 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-16 23:07:34,082 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:07:34,083 - INFO - Database file exists: True
+2025-10-16 23:07:34,083 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:07:34,083 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:07:34,095 - INFO - Found 14 tables in database
+2025-10-16 23:07:34,095 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-16 23:07:37,481 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 23:07:37,483 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:07:37,490 - INFO - Successfully extracted schema for 14 tables
+2025-10-16 23:07:37,547 - INFO - Application starting up...
+2025-10-16 23:07:37,548 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:07:37,548 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:07:37,552 - INFO - Found 14 tables in database
+2025-10-16 23:07:37,552 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-16 23:07:37,553 - INFO - Database connection successful
+2025-10-16 23:08:17,374 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:08:17,374 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:08:17,380 - INFO - Found 14 tables in database
+2025-10-16 23:08:17,380 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-16 23:08:38,755 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-16 23:08:38,758 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-16 23:10:04,888 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-16 23:10:04,889 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-16 23:10:08,406 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-16 23:10:08,407 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-16 23:46:37,422 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-16 23:46:37,423 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:46:37,423 - INFO - Database file exists: True
+2025-10-16 23:46:37,424 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:46:37,424 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:46:37,427 - INFO - Found 14 tables in database
+2025-10-16 23:46:37,427 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-16 23:46:51,261 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-16 23:46:51,262 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:46:51,266 - INFO - Successfully extracted schema for 14 tables
+2025-10-16 23:46:51,308 - INFO - Application starting up...
+2025-10-16 23:46:51,308 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-16 23:46:51,308 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-16 23:46:51,311 - INFO - Found 14 tables in database
+2025-10-16 23:46:51,311 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-16 23:46:51,311 - INFO - Database connection successful
+2025-10-16 23:50:36,360 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-16 23:50:36,362 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:16:21,327 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:16:21,328 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:16:21,329 - INFO - Database file exists: True
+2025-10-17 00:16:21,330 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:16:21,330 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:16:21,347 - INFO - Found 14 tables in database
+2025-10-17 00:16:21,347 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:16:24,882 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:16:24,883 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:16:24,894 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:16:24,978 - INFO - Application starting up...
+2025-10-17 00:16:24,978 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:16:24,978 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:16:24,981 - INFO - Found 14 tables in database
+2025-10-17 00:16:24,981 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:16:24,981 - INFO - Database connection successful
+2025-10-17 00:16:54,992 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:16:54,994 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:21:35,412 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:21:35,413 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:35,413 - INFO - Database file exists: True
+2025-10-17 00:21:35,414 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:35,414 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:21:35,417 - INFO - Found 14 tables in database
+2025-10-17 00:21:35,417 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:21:38,778 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:21:38,780 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:38,788 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:21:38,855 - INFO - Application starting up...
+2025-10-17 00:21:38,855 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:38,855 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:21:38,860 - INFO - Found 14 tables in database
+2025-10-17 00:21:38,860 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:21:38,861 - INFO - Database connection successful
+2025-10-17 00:21:43,692 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:21:43,693 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:43,693 - INFO - Database file exists: True
+2025-10-17 00:21:43,693 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:43,693 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:21:43,696 - INFO - Found 14 tables in database
+2025-10-17 00:21:43,696 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:21:45,930 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:21:45,931 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:45,936 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:21:45,988 - INFO - Application starting up...
+2025-10-17 00:21:45,989 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:21:45,989 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:21:45,993 - INFO - Found 14 tables in database
+2025-10-17 00:21:45,993 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:21:45,994 - INFO - Database connection successful
+2025-10-17 00:25:23,873 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:25:23,874 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:25:23,875 - INFO - Database file exists: True
+2025-10-17 00:25:23,875 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:25:23,875 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:25:23,879 - INFO - Found 14 tables in database
+2025-10-17 00:25:23,880 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:25:27,116 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:25:27,118 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:25:27,129 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:25:27,198 - INFO - Application starting up...
+2025-10-17 00:25:27,198 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:25:27,198 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:25:27,204 - INFO - Found 14 tables in database
+2025-10-17 00:25:27,205 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:25:27,206 - INFO - Database connection successful
+2025-10-17 00:26:53,711 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:26:53,712 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:26:53,712 - INFO - Database file exists: True
+2025-10-17 00:26:53,712 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:26:53,713 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:26:53,715 - INFO - Found 14 tables in database
+2025-10-17 00:26:53,716 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:26:55,910 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:26:55,912 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:26:55,920 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:26:55,967 - INFO - Application starting up...
+2025-10-17 00:26:55,967 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:26:55,968 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:26:55,971 - INFO - Found 14 tables in database
+2025-10-17 00:26:55,971 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:26:55,972 - INFO - Database connection successful
+2025-10-17 00:28:57,915 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:28:57,915 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:28:57,916 - INFO - Database file exists: True
+2025-10-17 00:28:57,916 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:28:57,916 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:28:57,920 - INFO - Found 14 tables in database
+2025-10-17 00:28:57,920 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:00,709 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:29:00,710 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:00,715 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:29:00,762 - INFO - Application starting up...
+2025-10-17 00:29:00,763 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:00,763 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:29:00,766 - INFO - Found 14 tables in database
+2025-10-17 00:29:00,766 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:00,766 - INFO - Database connection successful
+2025-10-17 00:29:05,738 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:29:05,739 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:05,740 - INFO - Database file exists: True
+2025-10-17 00:29:05,740 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:05,740 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:29:05,745 - INFO - Found 14 tables in database
+2025-10-17 00:29:05,745 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:08,220 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:29:08,221 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:08,228 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:29:08,267 - INFO - Application starting up...
+2025-10-17 00:29:08,267 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:08,267 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:29:08,270 - INFO - Found 14 tables in database
+2025-10-17 00:29:08,270 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:08,270 - INFO - Database connection successful
+2025-10-17 00:29:16,126 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:29:16,128 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:16,129 - INFO - Database file exists: True
+2025-10-17 00:29:16,129 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:16,130 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:29:16,135 - INFO - Found 14 tables in database
+2025-10-17 00:29:16,135 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:18,840 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:29:18,841 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:18,849 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:29:18,901 - INFO - Application starting up...
+2025-10-17 00:29:18,902 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:29:18,902 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:29:18,906 - INFO - Found 14 tables in database
+2025-10-17 00:29:18,906 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:29:18,906 - INFO - Database connection successful
+2025-10-17 00:29:31,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:29:31,552 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:30:13,929 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:30:13,930 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:13,930 - INFO - Database file exists: True
+2025-10-17 00:30:13,930 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:13,931 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:30:13,934 - INFO - Found 14 tables in database
+2025-10-17 00:30:13,934 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:30:16,607 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:30:16,608 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:16,616 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:30:16,681 - INFO - Application starting up...
+2025-10-17 00:30:16,681 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:16,682 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:30:16,685 - INFO - Found 14 tables in database
+2025-10-17 00:30:16,685 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:30:16,686 - INFO - Database connection successful
+2025-10-17 00:30:22,175 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:30:22,176 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:22,176 - INFO - Database file exists: True
+2025-10-17 00:30:22,176 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:22,176 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:30:22,180 - INFO - Found 14 tables in database
+2025-10-17 00:30:22,180 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:30:25,076 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:30:25,078 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:25,086 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:30:25,149 - INFO - Application starting up...
+2025-10-17 00:30:25,150 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:30:25,150 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:30:25,155 - INFO - Found 14 tables in database
+2025-10-17 00:30:25,156 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:30:25,156 - INFO - Database connection successful
+2025-10-17 00:34:39,404 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:34:39,406 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:04,115 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:35:04,115 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:35:04,116 - INFO - Database file exists: True
+2025-10-17 00:35:04,116 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:35:04,116 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:35:04,119 - INFO - Found 14 tables in database
+2025-10-17 00:35:04,119 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:35:06,647 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:35:06,649 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:35:06,660 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:35:06,725 - INFO - Application starting up...
+2025-10-17 00:35:06,726 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:35:06,726 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:35:06,731 - INFO - Found 14 tables in database
+2025-10-17 00:35:06,731 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:35:06,732 - INFO - Database connection successful
+2025-10-17 00:35:07,553 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:07,555 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:15,834 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:15,836 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:16,171 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:16,173 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:42,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:42,429 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:58,988 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:58,990 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:35:59,149 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:35:59,151 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:37:21,857 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:37:21,859 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:21,859 - INFO - Database file exists: True
+2025-10-17 00:37:21,859 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:21,860 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:37:21,863 - INFO - Found 14 tables in database
+2025-10-17 00:37:21,863 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:37:25,086 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:37:25,089 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:25,099 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:37:25,157 - INFO - Application starting up...
+2025-10-17 00:37:25,158 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:25,158 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:37:25,161 - INFO - Found 14 tables in database
+2025-10-17 00:37:25,161 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:37:25,162 - INFO - Database connection successful
+2025-10-17 00:37:29,974 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:37:29,975 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:29,976 - INFO - Database file exists: True
+2025-10-17 00:37:29,977 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:29,977 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:37:29,983 - INFO - Found 14 tables in database
+2025-10-17 00:37:29,983 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:37:32,298 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:37:32,300 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:32,304 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:37:32,350 - INFO - Application starting up...
+2025-10-17 00:37:32,350 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:37:32,350 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:37:32,353 - INFO - Found 14 tables in database
+2025-10-17 00:37:32,353 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:37:32,354 - INFO - Database connection successful
+2025-10-17 00:43:03,505 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:43:03,506 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:03,507 - INFO - Database file exists: True
+2025-10-17 00:43:03,507 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:03,507 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:43:03,511 - INFO - Found 14 tables in database
+2025-10-17 00:43:03,511 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:43:05,928 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:43:05,929 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:05,939 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:43:06,015 - INFO - Application starting up...
+2025-10-17 00:43:06,015 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:06,016 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:43:06,021 - INFO - Found 14 tables in database
+2025-10-17 00:43:06,021 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:43:06,021 - INFO - Database connection successful
+2025-10-17 00:43:06,993 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:43:06,995 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:43:11,143 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:43:11,145 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:43:57,002 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:43:57,003 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:57,004 - INFO - Database file exists: True
+2025-10-17 00:43:57,005 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:43:57,005 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:43:57,009 - INFO - Found 14 tables in database
+2025-10-17 00:43:57,009 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:00,138 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:44:00,140 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:00,147 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:44:00,222 - INFO - Application starting up...
+2025-10-17 00:44:00,222 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:00,222 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:44:00,228 - INFO - Found 14 tables in database
+2025-10-17 00:44:00,228 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:00,229 - INFO - Database connection successful
+2025-10-17 00:44:04,545 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:44:04,545 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:04,546 - INFO - Database file exists: True
+2025-10-17 00:44:04,546 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:04,546 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:44:04,549 - INFO - Found 14 tables in database
+2025-10-17 00:44:04,550 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:06,951 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:44:06,953 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:06,957 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:44:07,006 - INFO - Application starting up...
+2025-10-17 00:44:07,007 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:07,007 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:44:07,011 - INFO - Found 14 tables in database
+2025-10-17 00:44:07,011 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:07,012 - INFO - Database connection successful
+2025-10-17 00:44:44,258 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:44:44,259 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:44,259 - INFO - Database file exists: True
+2025-10-17 00:44:44,259 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:44,259 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:44:44,262 - INFO - Found 14 tables in database
+2025-10-17 00:44:44,263 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:47,086 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:44:47,088 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:47,092 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:44:47,130 - INFO - Application starting up...
+2025-10-17 00:44:47,131 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:44:47,131 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:44:47,134 - INFO - Found 14 tables in database
+2025-10-17 00:44:47,134 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:44:47,134 - INFO - Database connection successful
+2025-10-17 00:47:04,794 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:47:04,795 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:04,796 - INFO - Database file exists: True
+2025-10-17 00:47:04,796 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:04,797 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:47:04,802 - INFO - Found 14 tables in database
+2025-10-17 00:47:04,802 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:47:07,752 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:47:07,753 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:07,758 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:47:07,816 - INFO - Application starting up...
+2025-10-17 00:47:07,817 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:07,817 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:47:07,822 - INFO - Found 14 tables in database
+2025-10-17 00:47:07,823 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:47:07,823 - INFO - Database connection successful
+2025-10-17 00:47:19,930 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:47:19,931 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:19,932 - INFO - Database file exists: True
+2025-10-17 00:47:19,933 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:19,933 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:47:19,936 - INFO - Found 14 tables in database
+2025-10-17 00:47:19,937 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:47:22,984 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:47:22,986 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:22,997 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:47:23,072 - INFO - Application starting up...
+2025-10-17 00:47:23,073 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:47:23,073 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:47:23,076 - INFO - Found 14 tables in database
+2025-10-17 00:47:23,077 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:47:23,077 - INFO - Database connection successful
+2025-10-17 00:47:33,417 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:47:33,419 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:47:36,963 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:47:36,965 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:48:37,677 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:48:37,678 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:37,678 - INFO - Database file exists: True
+2025-10-17 00:48:37,679 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:37,679 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:48:37,686 - INFO - Found 14 tables in database
+2025-10-17 00:48:37,686 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:48:40,691 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:48:40,693 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:40,705 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:48:40,786 - INFO - Application starting up...
+2025-10-17 00:48:40,786 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:40,787 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:48:40,791 - INFO - Found 14 tables in database
+2025-10-17 00:48:40,791 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:48:40,792 - INFO - Database connection successful
+2025-10-17 00:48:45,394 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:48:45,395 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:45,395 - INFO - Database file exists: True
+2025-10-17 00:48:45,395 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:45,395 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:48:45,399 - INFO - Found 14 tables in database
+2025-10-17 00:48:45,399 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:48:48,605 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:48:48,607 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:48,622 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:48:48,715 - INFO - Application starting up...
+2025-10-17 00:48:48,715 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:48:48,716 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:48:48,721 - INFO - Found 14 tables in database
+2025-10-17 00:48:48,722 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:48:48,722 - INFO - Database connection successful
+2025-10-17 00:57:40,883 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:57:40,883 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:40,884 - INFO - Database file exists: True
+2025-10-17 00:57:40,884 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:40,884 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:57:40,887 - INFO - Found 14 tables in database
+2025-10-17 00:57:40,887 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:57:43,741 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:57:43,742 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:43,746 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:57:43,806 - INFO - Application starting up...
+2025-10-17 00:57:43,807 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:43,807 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:57:43,810 - INFO - Found 14 tables in database
+2025-10-17 00:57:43,810 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:57:43,810 - INFO - Database connection successful
+2025-10-17 00:57:55,366 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:57:55,367 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:55,367 - INFO - Database file exists: True
+2025-10-17 00:57:55,367 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:55,367 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:57:55,370 - INFO - Found 14 tables in database
+2025-10-17 00:57:55,371 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:57:57,797 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:57:57,798 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:57,804 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:57:57,852 - INFO - Application starting up...
+2025-10-17 00:57:57,852 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:57:57,852 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:57:57,855 - INFO - Found 14 tables in database
+2025-10-17 00:57:57,855 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:57:57,855 - INFO - Database connection successful
+2025-10-17 00:58:05,351 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 00:58:05,352 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:58:05,352 - INFO - Database file exists: True
+2025-10-17 00:58:05,352 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:58:05,352 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:58:05,357 - INFO - Found 14 tables in database
+2025-10-17 00:58:05,358 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:58:08,145 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 00:58:08,146 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:58:08,150 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 00:58:08,209 - INFO - Application starting up...
+2025-10-17 00:58:08,210 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:58:08,210 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:58:08,216 - INFO - Found 14 tables in database
+2025-10-17 00:58:08,216 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:58:08,217 - INFO - Database connection successful
+2025-10-17 00:58:09,917 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:58:09,919 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:58:13,184 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:58:13,185 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:58:13,418 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:58:13,419 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:58:13,641 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:58:13,643 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 00:58:28,576 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 00:58:28,577 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 00:58:28,583 - INFO - Found 14 tables in database
+2025-10-17 00:58:28,583 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 00:58:49,170 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-10-17 00:58:49,172 - ERROR - [LLM PLAN ERROR] Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-17 01:00:48,699 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 01:00:48,700 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:48,701 - INFO - Database file exists: True
+2025-10-17 01:00:48,701 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:48,701 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:00:48,707 - INFO - Found 14 tables in database
+2025-10-17 01:00:48,708 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:00:51,460 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 01:00:51,462 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:51,471 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 01:00:51,544 - INFO - Application starting up...
+2025-10-17 01:00:51,545 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:51,545 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:00:51,548 - INFO - Found 14 tables in database
+2025-10-17 01:00:51,549 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:00:51,549 - INFO - Database connection successful
+2025-10-17 01:00:56,578 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 01:00:56,579 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:56,579 - INFO - Database file exists: True
+2025-10-17 01:00:56,579 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:56,579 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:00:56,582 - INFO - Found 14 tables in database
+2025-10-17 01:00:56,582 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:00:59,046 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 01:00:59,047 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:59,053 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 01:00:59,099 - INFO - Application starting up...
+2025-10-17 01:00:59,099 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:00:59,099 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:00:59,102 - INFO - Found 14 tables in database
+2025-10-17 01:00:59,102 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:00:59,103 - INFO - Database connection successful
+2025-10-17 01:02:42,936 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 01:02:42,937 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:02:42,938 - INFO - Database file exists: True
+2025-10-17 01:02:42,939 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:02:42,939 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:02:42,942 - INFO - Found 14 tables in database
+2025-10-17 01:02:42,942 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:02:45,642 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 01:02:45,644 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:02:45,649 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 01:02:45,703 - INFO - Application starting up...
+2025-10-17 01:02:45,703 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:02:45,703 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:02:45,706 - INFO - Found 14 tables in database
+2025-10-17 01:02:45,707 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:02:45,707 - INFO - Database connection successful

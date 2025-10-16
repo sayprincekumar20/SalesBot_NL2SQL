@@ -108,7 +108,7 @@ Now output ONLY the JSON plan for this user query. Do NOT include explanations o
 
     try:
         chat = client.chat.completions.create(
-            model="gemma2-9b-it",
+            model="llama-3.1-8b-instant",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_query}
