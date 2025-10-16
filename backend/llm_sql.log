@@ -3216,3 +3216,23 @@ LIMIT 10; | Error: near "od": syntax error
 2025-10-17 01:02:45,706 - INFO - Found 14 tables in database
 2025-10-17 01:02:45,707 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
 2025-10-17 01:02:45,707 - INFO - Database connection successful
+2025-10-17 01:03:04,238 - INFO - DB_PATH from env: ./data/northwind.db
+2025-10-17 01:03:04,239 - INFO - Resolved database path: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:03:04,240 - INFO - Database file exists: True
+2025-10-17 01:03:04,240 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:03:04,240 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:03:04,245 - INFO - Found 14 tables in database
+2025-10-17 01:03:04,245 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:03:06,891 - WARNING - statsmodels not available; forecasting will be skipped.
+2025-10-17 01:03:06,893 - INFO - Attempting to connect to database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:03:06,898 - INFO - Successfully extracted schema for 14 tables
+2025-10-17 01:03:06,956 - INFO - Application starting up...
+2025-10-17 01:03:06,956 - INFO - Looking for database at: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\data\northwind.db
+2025-10-17 01:03:06,956 - INFO - Current working directory: C:\Users\prince.kumar\Desktop\sales\SalesBot_NL2SQL\backend
+2025-10-17 01:03:06,960 - INFO - Found 14 tables in database
+2025-10-17 01:03:06,960 - INFO - Tables: ['Categories', 'sqlite_sequence', 'CustomerCustomerDemo', 'CustomerDemographics', 'Customers']
+2025-10-17 01:03:06,961 - INFO - Database connection successful
+2025-10-17 01:03:16,829 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-17 01:03:16,890 - ERROR - [SUMMARY ERROR] Object of type date is not JSON serializable
+2025-10-17 01:05:31,814 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-17 01:05:32,211 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
